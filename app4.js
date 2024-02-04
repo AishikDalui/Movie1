@@ -1,4 +1,4 @@
-let api = 'http://www.omdbapi.com/?apikey=61e576a4&t='
+let api = 'https://www.omdbapi.com/?apikey=61e576a4&t='
 let title = document.getElementById('title');
 let date = document.getElementById('date');
 let plot = document.getElementById('plot');
